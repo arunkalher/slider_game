@@ -1,0 +1,142 @@
+body{
+    background-color: #dba1e7;
+    
+}
+div{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#big_box{
+    height:500px;
+    width: 510px;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 355px;
+    margin-top: 15px;
+   
+    background-color: #7882bf;
+    border-bottom: 2px solid red;
+    
+}
+
+.small_box{
+    position: absolute;
+    
+    background-color: #58d09a;
+    border: 1px solid black;
+    height: 15px;
+    width: 90px;
+    box-sizing: border-box;
+}
+#bottom_rod{
+    position: absolute;
+    left: 190px;
+    top: 480px;
+    
+    border: 1px solid black;
+    height: 15px;
+    width: 130px;
+    background-color: rgb(222, 116, 116);
+    box-sizing: border-box;
+}
+#ball{
+    border:  1px solid black;
+    position:absolute;
+    left: 247px;
+    top: 464px;
+    height: 16px;
+    width: 16px;
+    border-radius: 55%;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+.none{
+    display: none;
+}
+#small_box1{
+    left: 10px;
+    top:35px
+}
+#small_box2{
+    left: 110px;
+    top:35px
+}
+#small_box3{
+    left: 210px;
+    top:35px
+}
+#small_box4{
+    left: 310px;
+    top:35px
+}
+#small_box5{
+    left: 410px;
+    top:35px
+}
+
+#small_box6{
+    left: 10px;
+    top:55px
+}
+#small_box7{
+    left: 110px;
+    top:55px
+}
+#small_box8{
+    left: 210px;
+    top:55px
+}
+#small_box9{
+    left: 310px;
+    top:55px
+}
+#small_box10{
+    left: 410px;
+    top:55px
+}
+
+#small_box11{
+    left: 10px;
+    top:75px
+}
+#small_box12{
+    left: 110px;
+    top:75px
+}
+#small_box13{
+    left: 210px;
+    top:75px
+}
+#small_box14{
+    left: 310px;
+    top:75px
+}
+#small_box15{
+    left: 410px;
+    top:75px
+}
+
+#small_box16{
+    left: 10px;
+    top:95px
+}
+#small_box17{
+    left: 110px;
+    top:95px
+}
+#small_box18{
+    left: 210px;
+    top:95px
+}
+#small_box19{
+    left: 310px;
+    top:95px
+}
+#small_box20{
+    left: 410px;
+    top:95px
+}
+
+
+
+
+
